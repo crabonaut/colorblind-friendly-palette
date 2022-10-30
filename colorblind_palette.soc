@@ -7,17 +7,13 @@
 
   <!--
 
-  For questions or suggestions, please contact me at:
-  happykrabbe@googlemail.com
-
-  Cheers!
-
   File locations:
   Linux: /usr/lib/libreoffice/share/palette
   Windows: C:\Program Files\LibreOffice\share\palette
+  MacOS: /installation-folder/share/palette
 
-  Notes:
-  Librecalc only safes correct color profile in ODS format. Librewriter seems to safe correct color profile for all file formats.
+  Note:
+  LibreCalc only safes correct color profile in ODS format. LibreWriter seems to safe correct color profile for all file formats.
 
   -->
 
