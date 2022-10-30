@@ -1,6 +1,6 @@
 ## About
 
-This palette contains a selection of 20 qualitative and diverging color schemes from various sources. It is specifically written for the LibreOffice Suite (Calc, Writer, Impress etc.).
+This palette contains a selection of 18 qualitative and diverging color schemes from various sources. It is specifically written for the LibreOffice Suite (Calc, Writer, Impress etc.).
 
 ![](screenshot.png)
 
