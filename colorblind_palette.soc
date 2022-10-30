@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- References: https://material.io/design/color/#color-theme-creation -->
+
+<office:color-table xmlns:office="http://openoffice.org/2000/office" xmlns:style="http://openoffice.org/2000/style" xmlns:text="http://openoffice.org/2000/text" xmlns:table="http://openoffice.org/2000/table" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="http://openoffice.org/2000/meta" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:svg="http://www.w3.org/2000/svg" xmlns:chart="http://openoffice.org/2000/chart" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="http://openoffice.org/2000/form" xmlns:script="http://openoffice.org/2000/script">
+
+<Description >
+
+  <!--
+
+  For questions or suggestions, please contact me at:
+  happykrabbe@googlemail.com
+
+  Cheers!
+
+  File locations:
+  Linux: /usr/lib/libreoffice/share/palette
+  Windows: C:\Program Files\LibreOffice\share\palette
+
+  Notes:
+  Librecalc only safes correct color profile in ODS format. Librewriter seems to safe correct color profile for all file formats.
+
+  -->
+
+
+  <!-- 1
+  Okabe & Ito, High Contrast
+  Source: Masataka Okabe (Jikei Medial School, Japan) & Kei Ito (University of Tokyo, Institute for Molecular and Cellular Biosciences)
+  https://jfly.uni-koeln.de/color/, last access: May 21st, 2022
+  -->
+
+  <draw:color draw:name="Okabe-Black" draw:color="#000000"/>
+  <draw:color draw:name="Okabe-Orange" draw:color="#E69F00"/>
+  <draw:color draw:name="Okabe-Sky Blue" draw:color="#56B4E9"/>
+  <draw:color draw:name="Okabe-Bluish Green" draw:color="#009E73"/>
+  <draw:color draw:name="Okabe-Yellow" draw:color="#F0E442"/>
+  <draw:color draw:name="Okabe-Blue" draw:color="#0072B2"/>
+  <draw:color draw:name="Okabe-Vermillion" draw:color="#D55E00"/>
+  <draw:color draw:name="Okabe-Reddish Purple" draw:color="#CC79A7"/>
+  <draw:color draw:name="W01" draw:color="#ffffff"/>
+  <draw:color draw:name="Contrast-Red" draw:color="#BB5566"/>
+  <draw:color draw:name="Contrast-Yellow" draw:color="#DDAA33"/>
+  <draw:color draw:name="Contrast-Blue" draw:color="#004488"/>
+
+  <!-- 2
+  Purple - Green
+  Source: "Color Schemes" by Paul Tol, SRON/EPS/TN/09-002 · Issue 3.2 · 18 August 2021
+  https://personal.sron.nl/~pault/data/colourschemes.pdf
+  -->
+
+  <draw:color draw:name="PG01" draw:color="#762A83"/>
+  <draw:color draw:name="PG02" draw:color="#9970AB"/>
+  <draw:color draw:name="PG03" draw:color="#C2A5CF"/>
+  <draw:color draw:name="PG04" draw:color="#E7D4E8"/>
+  <draw:color draw:name="PG05" draw:color="#F7F7F7"/>
+  <draw:color draw:name="PG06" draw:color="#D9F0D3"/>
+  <draw:color draw:name="PG07" draw:color="#ACD39E"/>
+  <draw:color draw:name="PG08" draw:color="#5AAE61"/>
+  <draw:color draw:name="PG09" draw:color="#1B7837"/>
+  <draw:color draw:name="PG-Bad Data" draw:color="#FFEE99"/>
+  <draw:color draw:name="W02" draw:color="#ffffff"/>
+  <draw:color draw:name="W03" draw:color="#ffffff"/>
+
+  <!-- 3
+  Blue - Red
+  Source: "Color Schemes" by Paul Tol, SRON/EPS/TN/09-002 · Issue 3.2 · 18 August 2021
+  https://personal.sron.nl/~pault/
+  -->
+
+  <draw:color draw:name="BR01" draw:color="#2166AC"/>
+  <draw:color draw:name="BR02" draw:color="#4393C3"/>
+  <draw:color draw:name="BR03" draw:color="#92C5DE"/>
+  <draw:color draw:name="BR04" draw:color="#D1E5F0"/>
+  <draw:color draw:name="BR05" draw:color="#F7F7F7"/>
+  <draw:color draw:name="BR06" draw:color="#FDDBC7"/>
+  <draw:color draw:name="BR07" draw:color="#F4A582"/>
+  <draw:color draw:name="BR08" draw:color="#D6604D"/>
+  <draw:color draw:name="BR09" draw:color="#B2182B"/>
+  <draw:color draw:name="BR-Bad Data" draw:color="#FFEE99"/>
+  <draw:color draw:name="W04" draw:color="#ffffff"/>
+  <draw:color draw:name="W05" draw:color="#ffffff"/>
+
+  <!-- 4
+  Purple - Green
+  Source: US Department of Commerce, National Institute of Standards and Technology
+  https://www.itl.nist.gov/div898/software/dataplot/dpmacros/rgb_color_palettes.pdf, last access: May 21st, 2022
+
+  Source: https://venngage.com/blog/color-blind-friendly-palette/ by Rachel Cravit, August 21st, 2019, last access on: May 21st, 2022
+   -->
+
+  <draw:color draw:name="PG11" draw:color="#762a83"/>
+  <draw:color draw:name="PG12" draw:color="#af8dc3"/>
+  <draw:color draw:name="PG13" draw:color="#e7d4e8"/>
+  <draw:color draw:name="PG14" draw:color="#d9f0d3"/>
+  <draw:color draw:name="PG15" draw:color="#7fbf7b"/>
+  <draw:color draw:name="PG16" draw:color="#1b7837"/>
+  <draw:color draw:name="W06" draw:color="#ffffff"/>
+  <draw:color draw:name="W07" draw:color="#ffffff"/>
+  <draw:color draw:name="Elegant-Blue" draw:color="#abc3c9"/>
+  <draw:color draw:name="Elegant-Grey" draw:color="#e0dcd3"/>
+  <draw:color draw:name="Elegant-Antique" draw:color="#ccbe9f"/>
+  <draw:color draw:name="Elegant-Brown" draw:color="#382119"/>
+
+  <!-- 5
+  PinkYellow - Green
+  Source: US Department of Commerce, National Institute of Standards and Technology, https://www.itl.nist.gov/div898/software/dataplot/dpmacros/rgb_color_palettes.pdf, last access: May 21st, 2022
+
+  Zetsy
+  Source: https://venngage.com/blog/color-blind-friendly-palette/ by Rachel Cravit, August 21st, 2019, last access on: May 21st, 2022
+  -->
+
+  <draw:color draw:name="PYG01" draw:color="#c51b7d"/>
+  <draw:color draw:name="PYG02" draw:color="#e9a3c9"/>
+  <draw:color draw:name="PYG03" draw:color="#fde0ef"/>
+  <draw:color draw:name="PYG04" draw:color="#e6f5d0"/>
+  <draw:color draw:name="PYG05" draw:color="#a1d76a"/>
+  <draw:color draw:name="PYG06" draw:color="#4d9221"/>
+  <draw:color draw:name="W08" draw:color="#ffffff"/>
+  <draw:color draw:name="W09" draw:color="#ffffff"/>
+  <draw:color draw:name="Zetsy-Orange" draw:color="#f5793a"/>
+  <draw:color draw:name="Zetsy-Purple" draw:color="#a95aa1"/>
+  <draw:color draw:name="Zetsy-Azure" draw:color="#85c0f9"/>
+  <draw:color draw:name="Zetsy-Black" draw:color="#0f2000"/>
+
+  <!-- 6
+  Red - Blue
+  Source: US Department of Commerce, National Institute of Standards and Technology, https://www.itl.nist.gov/div898/software/dataplot/dpmacros/rgb_color_palettes.pdf, last access: May 21st, 2022
+
+  Corporate
+  Source: https://venngage.com/blog/color-blind-friendly-palette/ by Rachel Cravit, August 21st, 2019, last access on: May 21st, 2022
+  -->
+
+  <draw:color draw:name="RB01" draw:color="#b2182b"/>
+  <draw:color draw:name="RB02" draw:color="#ef8a62"/>
+  <draw:color draw:name="RB03" draw:color="#fddbc7"/>
+  <draw:color draw:name="RB04" draw:color="#d1e5f0"/>
+  <draw:color draw:name="RB05" draw:color="#67a9cf"/>
+  <draw:color draw:name="RB06" draw:color="#2166ac"/>
+  <draw:color draw:name="W10" draw:color="#ffffff"/>
+  <draw:color draw:name="W11" draw:color="#ffffff"/>
+  <draw:color draw:name="Corporate-Dark Grey" draw:color="#BDBBAD"/>
+  <draw:color draw:name="Corporate-Light Grey" draw:color="#EBE7E0"/>
+  <draw:color draw:name="Corporate-Light Blue" draw:color="#C6D4E1"/>
+  <draw:color draw:name="Corporate-Dark Blue" draw:color="#447490"/>
+
+  <!-- 7
+  Orange-Purple Diverging, 6 Colors
+  Source: US Department of Commerce, National Institute of Standards and Technology, https://www.itl.nist.gov/div898/software/dataplot/dpmacros/rgb_color_palettes.pdf, last access: May 21st, 2022
+
+  Retro
+  Source: https://venngage.com/blog/color-blind-friendly-palette/ by Rachel Cravit, August 21st, 2019, last access on: May 21st, 2022
+  -->
+
+  <draw:color draw:name="OP01" draw:color="#b35806"/>
+  <draw:color draw:name="OP02" draw:color="#f1a340"/>
+  <draw:color draw:name="OP03" draw:color="#fee0b6"/>
+  <draw:color draw:name="OP04" draw:color="#d8daeb"/>
+  <draw:color draw:name="OP05" draw:color="#998ec3"/>
+  <draw:color draw:name="OP06" draw:color="#542788"/>
+  <draw:color draw:name="W12" draw:color="#ffffff"/>
+  <draw:color draw:name="W13" draw:color="#ffffff"/>
+  <draw:color draw:name="Retro-Blue" draw:color="#63ACBE"/>
+  <draw:color draw:name="Retro-White" draw:color="#F9F4EC"/>
+  <draw:color draw:name="Retro-Red" draw:color="#EE442F"/>
+  <draw:color draw:name="Retro-Purple" draw:color="#601A4A"/>
+
+  <!-- 8
+  Red - Grey
+  Source: US Department of Commerce, National Institute of Standards and Technology, https://www.itl.nist.gov/div898/software/dataplot/dpmacros/rgb_color_palettes.pdf, last access: May 21st, 2022
+
+  Muted 4- Paul Tol
+  Source: "Color Schemes" by Paul Tol, SRON/EPS/TN/09-002 · Issue 3.2 · 18 August 2021
+  https://personal.sron.nl/~pault/
+  Adapted from ColorBrewer by Cynthia A. Brewer, 2009
+  http://colorbrewer2.org
+  -->
+
+  <draw:color draw:name="RG01" draw:color="#b2182b"/>
+  <draw:color draw:name="RG02" draw:color="#ef8a62"/>
+  <draw:color draw:name="RG03" draw:color="#fddbc7"/>
+  <draw:color draw:name="RG04" draw:color="#e0e0e0"/>
+  <draw:color draw:name="RG05" draw:color="#999999"/>
+  <draw:color draw:name="RG06" draw:color="#4d4d4d"/>
+  <draw:color draw:name="W14" draw:color="#ffffff"/>
+  <draw:color draw:name="W15" draw:color="#ffffff"/>
+  <draw:color draw:name="B4" draw:color="#4477AA"/>
+  <draw:color draw:name="G4" draw:color="#117733"/>
+  <draw:color draw:name="O4" draw:color="#DDCC77"/>
+  <draw:color draw:name="R4" draw:color="#CC6677"/>
+
+  <!-- 9
+  BrownBlue-Green Diverging, 6 Colors
+  Source: US Department of Commerce, National Institute of Standards and Technology, https://www.itl.nist.gov/div898/software/dataplot/dpmacros/rgb_color_palettes.pdf, last access: May 21st, 2022
+  -->
+
+  <draw:color draw:name="RBG01" draw:color="#8c510a"/>
+  <draw:color draw:name="RBG02" draw:color="#d8b365"/>
+  <draw:color draw:name="RBG03" draw:color="#f6e8c3"/>
+  <draw:color draw:name="RBG04" draw:color="#c7eae5"/>
+  <draw:color draw:name="RBG05" draw:color="#5ab4ac"/>
+  <draw:color draw:name="RBG06" draw:color="#01665e"/>
+  <draw:color draw:name="W16" draw:color="#ffffff"/>
+  <draw:color draw:name="W17" draw:color="#ffffff"/>
+  <draw:color draw:name="W18" draw:color="#ffffff"/>
+  <draw:color draw:name="W19" draw:color="#ffffff"/>
+  <draw:color draw:name="W20" draw:color="#ffffff"/>
+  <draw:color draw:name="W21" draw:color="#ffffff"/>
+
+   <!-- 10
+   Muted - Paul Tol
+   Source: "Color Schemes" by Paul Tol, SRON/EPS/TN/09-002 · Issue 3.2 · 18 August 2021
+   https://personal.sron.nl/~pault/
+   Adapted from ColorBrewer by Cynthia A. Brewer, 2009
+   http://colorbrewer2.org
+    -->
+
+  <draw:color draw:name="Muted-Rose" draw:color="#CC6677"/>
+  <draw:color draw:name="Muted-Indigo" draw:color="#332288"/>
+  <draw:color draw:name="Muted-Sand" draw:color="#DDCC77"/>
+  <draw:color draw:name="Muted-Green" draw:color="#117733"/>
+  <draw:color draw:name="Muted-Cyan" draw:color="#88CCEE"/>
+  <draw:color draw:name="Muted-Wine" draw:color="#882255"/>
+  <draw:color draw:name="Muted-Teal" draw:color="#44AA99"/>
+  <draw:color draw:name="Muted-Olive" draw:color="#999933"/>
+  <draw:color draw:name="Muted-Purple" draw:color="#AA4499"/>
+  <draw:color draw:name="W24" draw:color="#ffffff"/>
+  <draw:color draw:name="W25" draw:color="#ffffff"/>
+  <draw:color draw:name="W26" draw:color="#ffffff"/>
+
+  <!-- 11
+  Medium Contrast - Paul Tol
+  Source: "Color Schemes" by Paul Tol, SRON/EPS/TN/09-002 · Issue 3.2 · 18 August 2021
+  https://personal.sron.nl/~pault/
+  Adapted from ColorBrewer by Cynthia A. Brewer, 2009
+  http://colorbrewer2.org
+  -->
+
+  <draw:color draw:name="Medium-Light Blue" draw:color="#6699CC"/>
+  <draw:color draw:name="Medium-Dark Blue" draw:color="#004488"/>
+  <draw:color draw:name="Medium-Light Yellow" draw:color="#EECC66"/>
+  <draw:color draw:name="Medium-Dark Red" draw:color="#994455"/>
+  <draw:color draw:name="Medium-Dark Yellow" draw:color="#997700"/>
+  <draw:color draw:name="Medium-Light Red" draw:color="#EE99AA"/>
+  <draw:color draw:name="W27" draw:color="#ffffff"/>
+  <draw:color draw:name="W28" draw:color="#ffffff"/>
+  <draw:color draw:name="W29" draw:color="#ffffff"/>
+  <draw:color draw:name="W30" draw:color="#ffffff"/>
+  <draw:color draw:name="W31" draw:color="#ffffff"/>
+  <draw:color draw:name="W32" draw:color="#ffffff"/>
+
+  <!-- 12
+  Bright Contrast - Paul Tol
+  Source: "Color Schemes" by Paul Tol, SRON/EPS/TN/09-002 · Issue 3.2 · 18 August 2021
+  https://personal.sron.nl/~pault/
+  Adapted from ColorBrewer by Cynthia A. Brewer, 2009
+  http://colorbrewer2.org
+  -->
+
+  <draw:color draw:name="Bright-Blue" draw:color="#4477AA"/>
+  <draw:color draw:name="Bright-Cyan" draw:color="#66CCEE"/>
+  <draw:color draw:name="Bright-Green" draw:color="#228833"/>
+  <draw:color draw:name="Bright-Yellow" draw:color="#CCBB44"/>
+  <draw:color draw:name="Bright-Red" draw:color="#EE6677"/>
+  <draw:color draw:name="Bright-Purple" draw:color="#AA3377"/>
+  <draw:color draw:name="Bright-Grey" draw:color="#BBBBBB"/>
+  <draw:color draw:name="W33" draw:color="#ffffff"/>
+  <draw:color draw:name="W34" draw:color="#ffffff"/>
+  <draw:color draw:name="W35" draw:color="#ffffff"/>
+  <draw:color draw:name="W36" draw:color="#ffffff"/>
+  <draw:color draw:name="W37" draw:color="#ffffff"/>
+
+</office:color-table>
