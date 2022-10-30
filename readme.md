@@ -16,7 +16,7 @@ LibreCalc save correct color values only to _ods_ formats, whereas Writer saves 
 
 ## File Locations:
 
-Simply save to file to:
+Simply save _colorblind_palette_.soc to:
 
 /usr/lib/libreoffice/share/palette/ on **Linux**
 
