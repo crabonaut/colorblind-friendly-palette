@@ -38,5 +38,5 @@ References to specific color schemes are mentioned within the file.
 
 ## License
 
-[GPLv3](https://github.com/gorhill/uBlock/blob/master/LICENSE.txt)
+[GPLv3](license.txt)
 
